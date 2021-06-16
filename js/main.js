@@ -1,5 +1,5 @@
 $(function(){
-    alert("Todo el contenido que se verá a conrinuación es parte de un proyecto escolar sin ánimos de lucro.")
+    alert("Todo el contenido que se verá a continuación es parte de un proyecto escolar sin ánimos de lucro.")
 });
 
 // Variables
